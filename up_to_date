@@ -1,0 +1,7 @@
+git pull
+git add .
+cd 
+git commit -m
+ls
+git branch -a
+
