@@ -3,6 +3,4 @@ touch
 git push
 git add .
 git commit -t
-vi
-vim
-git pull
+"git pull"
