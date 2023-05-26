@@ -5,4 +5,4 @@ git add .
 git commit -t
 vi
 vim
-
+git pull
