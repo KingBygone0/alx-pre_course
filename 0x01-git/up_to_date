@@ -1,6 +1,1 @@
-below are git command line used
-touch
-git push
-git add .
-git commit -t
-"git pull"
+git pull
