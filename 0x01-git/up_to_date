@@ -6,3 +6,4 @@ git commit -t
 vi
 vim
 
+git pull
